@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LebaraJavaUtils:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LebaraJavaUtils_jar</output-path>
+    <root id="archive" name="LebaraJavaUtils.jar">
+      <element id="module-output" name="LebaraJavaUtils" />
+    </root>
+  </artifact>
+</component>
